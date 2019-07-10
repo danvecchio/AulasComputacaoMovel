@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exemplo Computação Movel</string>
+    <string name="btn_confirm">Confirmar</string>
+    <string name="hello">Hello World! Oi</string>
+</resources>
